@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Lab 1
 
-You can use the [editor on GitHub](https://github.com/swarren2/cit281-lab01/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This lab walked through setting up the software required for the course in addition to practicing keyboard shortcuts
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img width="586" alt="lab-01-folders" src="https://user-images.githubusercontent.com/77074432/120720265-a0f1ef00-c480-11eb-89a8-54ad5e257e92.png">
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swarren2/cit281-lab01/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img width="445" alt="lab-01-node" src="https://user-images.githubusercontent.com/77074432/120720377-d3035100-c480-11eb-89de-8ad195ab259d.png">
