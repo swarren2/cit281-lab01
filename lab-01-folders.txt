@@ -1,0 +1,10 @@
+total 0
+-rw-r--r--  1 sydneewarren  staff   0 Mar 31 16:12 lab-01-folders.txt
+drwxr-xr-x@ 3 sydneewarren  staff  96 Mar 31 16:01 p1
+drwxr-xr-x@ 2 sydneewarren  staff  64 Mar 31 15:57 p2
+drwxr-xr-x@ 2 sydneewarren  staff  64 Mar 31 15:57 p3
+drwxr-xr-x@ 2 sydneewarren  staff  64 Mar 31 15:57 p4
+drwxr-xr-x@ 2 sydneewarren  staff  64 Mar 31 15:57 p5
+drwxr-xr-x@ 2 sydneewarren  staff  64 Mar 31 15:57 p6
+drwxr-xr-x@ 2 sydneewarren  staff  64 Mar 31 15:58 p7
+drwxr-xr-x  2 sydneewarren  staff  64 Mar 31 15:58 p8
